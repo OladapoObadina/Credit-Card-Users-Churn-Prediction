@@ -1,6 +1,6 @@
 ## Credit-Card-Users-Churn-Prediction
 
-### This project was deployed Google App Engine using Flask. Please see link to web app prototype below
+### This project was deployed on Google App Engine using Flask. Please see a link to the web app prototype below
 http://churnproject-315022.du.r.appspot.com/send
 
 
