@@ -1,5 +1,9 @@
 ## Credit-Card-Users-Churn-Prediction
 
+### This project was deployed Google App Engine using Flask. Please see link to web app prototype below
+http://churnproject-315022.du.r.appspot.com/send
+
+
 ### Background & Context
 Thera bank recently saw a steep decline in the number of users of their credit card, credit cards are a good source of income for banks because of different kinds of fees charged by the banks like annual fees, balance transfer fees, and cash advance fees, late payment fees, foreign transaction fees, and others. Some fees are charged on every user irrespective of usage, while others are charged under specified circumstances.
 
@@ -30,3 +34,4 @@ The objective is to build a classification model to predict if a customer is goi
 - Total_Trans_Ct: Total Transaction Count (Last 12 months)
 - Total_Ct_Chng_Q4_Q1: Change in Transaction Count (Q4 over Q1)
 - Avg_Utilization_Ratio: Average Card Utilization Ratio
+
